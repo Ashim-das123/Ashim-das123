@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Ashim Das</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" height="40px"> I'm Ashim Das</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,7 +68,7 @@ Here are some ideas to get you started: -->
   
 </p>
 
-## ❤️ Let's get connected:
+## 🔗Feel Free to Connect :
 
 <p> <a href="https://twitter.com/ashimdas_48" target="_blank"><img alt="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  height="50px"/></a> <a href="https://www.linkedin.com/in/ashimdas02/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  height="50px"/></a> <a href="https://www.instagram.com/thisis_ashim" target="_blank"><img alt="Instagram" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"  height="50px"/></a>
 </p>
