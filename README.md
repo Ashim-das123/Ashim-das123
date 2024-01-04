@@ -15,7 +15,7 @@ Here are some ideas to get you started: -->
 
 <img  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" height="300px" align="right" />
 
-<!-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**-->
+
 - 🌍 I'm based in India.
 
 - 👨‍💻 Transforming ideas into digital reality !!🚀✨
@@ -24,8 +24,8 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning `MERN Stack`
 
-<!-- 👯 I’m looking to collaborate for `Dev Projects`-->
-- ✉️  You can contact me at `adas85042@gmail.com`
+<!-- ✉️👯 I’m looking to collaborate for `Dev Projects`-->    
+- ✉️ You can contact me at `adas85042@gmail.com`<img/>
 
 - 🤝  I'm open to collaborating on `MERN` projects.
 
@@ -70,14 +70,14 @@ Here are some ideas to get you started: -->
 
 ## ❤️ Let's get connected:
 
-<p> <a href="https://twitter.com/ashimdas_48" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/ashimdas02/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/thisis_ashim" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p> <a href="https://twitter.com/ashimdas_48" target="_blank"><img alt="Twitter" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"  height="50px"/></a> <a href="https://www.linkedin.com/in/ashimdas02/" target="_blank"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  height="50px"/></a> <a href="https://www.instagram.com/thisis_ashim" target="_blank"><img alt="Instagram" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"  height="50px"/></a>
 </p>
 
-## 🤝 Support Me:
+<!--## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Buy Me A Coffee" height="60px" width="60px"></a> -->
 
-## 📊 My GitHub Data:
+##  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" height="60px" width="60px">
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ashim-das123&show_icons=true" />
