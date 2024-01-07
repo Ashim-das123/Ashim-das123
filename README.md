@@ -73,11 +73,23 @@
 
 <!--## 🤝 Support Me:
 
-<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Buy Me A Coffee" height="60px" width="60px"></a> -->
+<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Buy Me A Coffee" height="60px" width="60px"></a>
 
-##  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" height="60px" width="60px">
+##  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" height="60px" width="60px">  -->
 
-<div align="center">
+<!--<div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ashim-das123&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashim-das123&" alt="ashim" />
 </div>
+<a href="http://www.github.com/Ashim-das123"><img src="https://github-readme-stats.vercel.app/api?username=Ashim-das123&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=84cc16&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="Ashim-das123's GitHub stats" /></a>
+
+<a href="http://www.github.com/Ashim-das123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashim-das123&stroke=84cc16&background=0f172a&ring=f97316&fire=f97316&currStreakNum=84cc16&currStreakLabel=f97316&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+
+<a href="https://github.com/Ashim-das123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-das123&langs_count=10&title_color=f97316&text_color=84cc16&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Ashim-das123/code-editor-frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-das123&repo=code-editor-frontend&title_color=f97316&text_color=84cc16&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Ashim-das123/peep-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-das123&repo=peep-frontend&title_color=f97316&text_color=84cc16&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+<div width="100%" align="center"><a href="https://github.com/Ashim-das123/mail-deploy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-das123&repo=mail-deploy&title_color=f97316&text_color=84cc16&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Ashim-das123/webchat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-das123&repo=webchat&title_color=f97316&text_color=84cc16&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
